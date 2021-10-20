@@ -55,7 +55,7 @@ The characters from the plaintext message are substituted with characters from a
 
 The characters are converted into numbers, segmented and grouped into separate 1D matrices. A predefined constant matrix is multiplied by each number from each 1D matrix to give each resulting number.  Each resulting number is converted back into a character. The properties of matrix multiplication mean that the value of the multiplication is a result of the number, its three adjacent numbers and its position in the 1D matrix.  
 
-![](Aspose.Words.db88a8db-ca5b-4008-b4bb-c1731edce9c8.008.png)![](Aspose.Words.db88a8db-ca5b-4008-b4bb-c1731edce9c8.009.png)
+![](Aspose.Words.db88a8db-ca5b-4008-b4bb-c1731edce9c8.009.png)
 
 
 ## Permutations
