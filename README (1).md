@@ -1,5 +1,4 @@
 
-   ![](Aspose.Words.db88a8db-ca5b-4008-b4bb-c1731edce9c8.001.jpeg)
 
 
    ![](Aspose.Words.dd61cb78-f8af-4789-b3bd-3b4ebaebce48.001.jpeg)
