@@ -1,7 +1,7 @@
 
 
 
-   ![](Aspose.Words.dd61cb78-f8af-4789-b3bd-3b4ebaebce48.001.jpeg)
+  
 
 
 This is an encryption program using a substitution – permutation network.  The cipher uses a symmetric key- so the same key is used for encryption and decryption           
