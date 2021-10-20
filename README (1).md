@@ -39,14 +39,14 @@ Each letter in the text and in the passcode are converted to respective numbers 
 Each character from the plaintext message is converted to a number.  A number taken from the passcode is added to first number of the message. Starting from the second position of the message, the resulting number is then added to the preceding number from the message. This means one change in the message will affect all letters in the ciphertext.  Once completed, the numbers will be converted to ciphertext characters.
 
 
-<<<<<<< HEAD
+
 ![](Aspose.Words.db88a8db-ca5b-4008-b4bb-c1731edce9c8.006.png)
 
 **Two-character arrays**
-=======
+
 ![](Aspose.Words.dd61cb78-f8af-4789-b3bd-3b4ebaebce48.006.png)
 ## Two-character arrays
->>>>>>> 84a35502f4fbf1286b7940a788a1d0ca6f9d26e4
+
 
 The characters from the plaintext message are substituted with characters from a 2D array.  Therefore, each character will become two characters. The two characters from the 2D array representing each letter from the message can be varied in different permutations.
 
